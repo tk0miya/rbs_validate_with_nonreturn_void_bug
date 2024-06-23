@@ -60,3 +60,5 @@ You can regenerate it through the following command:
 
     bundle exec rbs prototype rb --out-dir sig/ lib
 
+
+Additionally, I got this error since I was updated to rbs-3.5.1 from 3.5.0.
